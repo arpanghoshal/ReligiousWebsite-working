@@ -1536,6 +1536,12 @@ body.mobile-nav-active #mobile-nav-toggle {
     border-left: 1px solid #ddd;
     border-right: 1px solid #ddd;
   }
+
+
+
+
+
+
 }
 
 @media (min-width: 992px) {
@@ -1590,4 +1596,28 @@ body.mobile-nav-active #mobile-nav-toggle {
   #mobile-nav-toggle {
     display: inline;
   }
+#header #logo h1 {
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  letter-spacing: 3px;
+}
+#intro h2 {
+  color: #fff;
+  margin-bottom: 30px;
+  font-size: 26px;
+  font-weight: 700;
+}
+#intro h3{
+  color: #fff;
+  margin-bottom: 30px;
+  font-size: 22px;
+  font-weight: 700;
+}
+.img-fluid1 {height:150px; width: 300px;}
+.logo {font-size:10px;}
+.img-fluid3 {height:200px; width: 150px; background-color:white;}
 }
